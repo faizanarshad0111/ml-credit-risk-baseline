@@ -1,0 +1,11 @@
+age,income,loan_amount,late_payments,home_owner,employment,defaulted
+22,28000,2500,0,no,part_time,0
+35,52000,12000,1,yes,full_time,0
+28,41000,8000,2,no,full_time,0
+45,68000,22000,3,yes,full_time,1
+31,47000,14000,0,no,contract,0
+52,75000,26000,4,yes,full_time,1
+26,36000,6000,1,no,part_time,0
+39,61000,18000,2,yes,full_time,1
+24,32000,4000,0,no,part_time,0
+48,71000,24000,3,yes,full_time,1
